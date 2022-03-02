@@ -47,12 +47,12 @@ touch repozytorium_projektu/program1.py
 ![013_publish.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/013_publish.png)
 
 
-**B. Rozwój projektu:**
+#### B. Rozwój projektu:
 3. Add/commit cycle
 4. Pull/Push
 
 
-**C. Dodaj coś od siebie do innego repo: PR**
+#### C. Dodaj coś od siebie do innego repo: PR
 
 
 # Level 2
