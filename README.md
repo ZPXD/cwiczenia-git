@@ -27,11 +27,31 @@ touch repozytorium_projektu/program1.py
 5. Zintegruj VSCode ze swoim kontem na GitHubie
 6. 
 
-![foto](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/001.png)
-![foto](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/002.png)
+![001.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/001.png)
+![002.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/002.png)
+![003.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/003.png)
+![004.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/004.png)
+![005.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/005.png)
+![006.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/006.png)
+![007.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/007.png)
+![008.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/008.png)
+![009_Initialize.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/009_Initialize.png)
+![009_publish.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/009_publish.png)
+![010.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/010.png)
+![010_publish.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/010_publish.png)
+![011.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/011.png)
+![011_publish.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/011_publish.png)
+![012.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/012.png)
+![012_publish.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/012_publish.png)
+![013.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/013.png)
+![013_publish.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/013_publish.png)
+![014.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/014.png)
+![015.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/015.png)
+![016.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/016.png)
+![017.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/017.png)
+![018.png](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/018.png)
 
 5. Zainstaluj wtyczkę do GitHuba: PR
-6. 
 
 
 5. Folder
