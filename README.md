@@ -27,6 +27,9 @@ touch repozytorium_projektu/program1.py
 5. Zintegruj VSCode ze swoim kontem na GitHubie
 6. 
 
+![foto](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/001.png)
+![foto](https://github.com/ZPXD/cwiczenia-git/blob/main/foto_do_instrukcji/002.png)
+
 5. Zainstaluj wtyczkę do GitHuba: PR
 6. 
 
