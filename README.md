@@ -21,6 +21,11 @@ Kliknij na githubie w widelec.
 # Level 1
 
 **A. Tworzenie projektu (dynamika A: folder projektu -> repozytorium).**
+1. Wejdź na swojego GitHuba
+
+
+
+**B. Tworzenie projektu (dynamika B: folder projektu -> repozytorium).**
 1. Wejdź do VSCode.
 2. Wejdź na serwer.
 3. Stwórz sobie testowy projekt.
